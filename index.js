@@ -12,3 +12,19 @@
 //     let result = incrementNumber(inputNumber);
 //     document.getElementById("result").innerHTML = "Kết quả: " + result;
 // }
+
+// BT3
+
+// function result(a,b){
+//
+//     if(a > b){
+//         alert(`So ${a} lon hon so ${b}`)
+//     }
+//     else {
+//     //     alert(a + b);
+//     return a+b;
+//     }
+//
+// }
+// result = result(7,6);
+// console.log(result)
