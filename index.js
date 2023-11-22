@@ -28,3 +28,15 @@
 // }
 // result = result(7,6);
 // console.log(result)
+
+// BT4
+// function addNumbers() {
+//     firstNum = 4;
+//     secondNum = 8;
+//     result = firstNum + secondNum;
+//     return result;
+// }
+// result = 0;
+// console.log(result);
+// result = addNumbers();
+// console.log(result);
